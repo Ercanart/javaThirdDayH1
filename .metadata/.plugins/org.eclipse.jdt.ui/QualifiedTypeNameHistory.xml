@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javaThirdDayH1.CreditManager"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.CustomerManager"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.Company"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.Customer"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.Person"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.MilitaryCreditManager"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.TeacherCreditManager"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.ICreditManager"/>
+    <fullyQualifiedTypeName name="javaThirdDayH1.BaseCreditManager"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package javaThirdDayH1;
+
+public class CustomerManager {
+	
+	public void Save() {
+		System.out.println("Müşteri kayededildi");
+	}
+
+}

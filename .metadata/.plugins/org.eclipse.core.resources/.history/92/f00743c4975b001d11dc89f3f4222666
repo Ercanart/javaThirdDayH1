@@ -1,0 +1,13 @@
+package javaThirdDayH1;
+
+public class CreditManager { //Operasyon class'ı
+	
+	public void Calculate() { //Sonar qube (yazılım kalitesi test aracı)
+		System.out.println("Hesaplandı");
+	}
+	
+	public void Save() {
+		System.out.println("Kredi verildi");
+	}
+
+}

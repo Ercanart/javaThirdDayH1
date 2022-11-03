@@ -1,0 +1,6 @@
+package javaThirdDayH1;
+
+public interface ICreditManager {
+	void calculate(); //imza
+	void save();
+}

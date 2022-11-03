@@ -1,0 +1,7 @@
+package javaThirdDayH1;
+
+public class Customer {
+	public int id;
+	
+
+}

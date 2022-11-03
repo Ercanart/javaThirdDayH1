@@ -1,0 +1,5 @@
+package javaThirdDayH1;
+
+abstract class BaseCreditManager implements ICreditManager {
+
+}

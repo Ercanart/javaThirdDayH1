@@ -1,0 +1,14 @@
+package javaThirdDayH1;
+
+public class CustomerManager {
+	
+	public void Save(int id, String firstName, String lastName, String nationalIdenty ) {
+		System.out.println("Müşteri kayededildi");
+	}
+
+	
+	public void Save(Customer customer) {
+		System.out.println("Müşteri kayededildi");
+	}
+
+}

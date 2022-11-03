@@ -1,0 +1,5 @@
+package javaThirdDayH1;
+
+public class Person extends Customer {
+	public String nationaIdenty;
+}

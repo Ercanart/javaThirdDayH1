@@ -1,0 +1,13 @@
+package javaThirdDayH1;
+
+public class Customer { //Özellik class'ı
+	public int id;
+	public String firstName;
+	public String lastName;
+	public String nationalIdenty;
+	public String city;
+	
+	
+	
+
+}
